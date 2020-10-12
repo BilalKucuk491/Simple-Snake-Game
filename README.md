@@ -4,4 +4,4 @@ Bunu kod okuyabilmek için yeniden yükselttim.
 
 sdwdwdswdwd
 wdww
-wdw
+wdwwd
