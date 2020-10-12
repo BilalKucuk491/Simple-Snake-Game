@@ -2,3 +2,4 @@
 ssd
 Bunu kod okuyabilmek için yeniden yükselttim.
 ddw
+wd
