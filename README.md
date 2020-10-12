@@ -1,4 +1,4 @@
 # Simple-Snake-Game
 
-Bunu kod okuyabilmek için yeniden yükselttim.
+Bunun orjinal halini yeniden yükselttim. Burada insanların kodlarını okuyabilmektir. 
 
