@@ -2,6 +2,3 @@
 
 Bunu kod okuyabilmek için yeniden yükselttim.
 
-sdwdwdswdwd
-wdww
-wdwwd
