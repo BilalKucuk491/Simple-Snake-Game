@@ -1,3 +1,3 @@
 # Simple-Snake-Game
 
-Bunu kod okuyabilmke için yeniden yükselttim.
+Bunu kod okuyabilmek için yeniden yükselttim.
